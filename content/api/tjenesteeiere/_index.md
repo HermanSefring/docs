@@ -32,7 +32,7 @@ På disse sidene har vi trukket ut den viktigste dokumentasjonen for tjenesteeie
 Flere av tjenestene tilbys med både web service– og batch-grensesnitt.
 Som en tommelfingerregel kan man si at skal man overføre færre enn 100 elementer (alternativt mindre enn 30 MB) kan man benytte web service grensesnitt,
 men for store datamengder bør batch-grensesnitt benyttes. Tommelfingerregelen er scenarioavhengig og ingen absoluttgrense.
-Enkelte ressurser er også tilgjengelig i Altinns REST API for tjenesteeiere. Overtid vil Webservice grensesnittet erstattes med REST Api.
+Enkelte ressurser er også tilgjengelig i Altinns REST API for tjenesteeiere. Over tid vil Webservice grensesnittet erstattes med REST Api.
 
 ## Like webservice operasjoner med forskjellige protokoller og endepunkter
 
